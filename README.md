@@ -7,3 +7,4 @@ https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcomputationalc
 
 pipeline_demo.py creates simulated clean and noisy data based off downloaded cryogentic electron microscopy images from (https://www.ebi.ac.uk/emdb/) 
 while cov2d_simulation.py uses estimations of the 2D covariance matrix to denoise images.
+The only changes made to the above code from the tutorial was the cryo-em images used was changed to EMD-8012.
